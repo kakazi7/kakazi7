@@ -1,16 +1,25 @@
-## Hi there 👋
+# Zarpa | KZ
 
-<!--
-**kakazi7/kakazi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Comércio Exterior de profissão. Na Zarpa, crio sites, sistemas e ferramentas web para pequenos negócios.
 
-Here are some ideas to get you started:
+**O que faço**
+- Sites e landing pages
+- Cardápios digitais para delivery
+- Sistemas e ferramentas internas
+- Webdesign
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Espírito Santo, Brasil
+
+---
+
+## English
+
+Foreign Trade professional. At Zarpa, I build websites, systems and web tools for small businesses.
+
+**What I do**
+- Websites and landing pages
+- Digital menus for delivery
+- Internal systems and tools
+- Web design
+
+📍 Espírito Santo, Brazil
